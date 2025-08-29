@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-krishankaushik.vercel.app/](https://portfolio-website-krishankaushik.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://krishan-kaushik.vercel.app/](https://krishan-kaushik.vercel.app/)
 
 - 💬 Ask me about **JAVA**
 
